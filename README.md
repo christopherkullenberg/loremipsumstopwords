@@ -2,7 +2,7 @@
 A collection of stopwords that can be used to clean texts from Lorem Ipsum-style fillers.
 
 ### Usage
-Read the comma-separated file into a stopword list. 
+Read the comma-separated file **loremstopwordslist.txt** into a stopword list. 
 
 **Note:** Depending on your target language, there are many words that overlap with natural language. Please inspect the list manually first.
 
